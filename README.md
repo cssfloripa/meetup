@@ -2,7 +2,7 @@
   <a href="https://cssfloripa.github.io" title="CSS Floripa">
     <img alt="CSS Floripa Logo" src="https://cssfloripa.github.io/img/logo--blue.svg" width="250" height="auto"/>
   </a><br>
-  CSS Floripa Meetup
+  Meet-up - CSS Floripa Meetup
 </h1>
 
 <p align=center>
